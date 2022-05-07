@@ -1,0 +1,6 @@
+framework module Pods_BibleQuotes {
+  umbrella header "Pods-BibleQuotes-umbrella.h"
+
+  export *
+  module * { export * }
+}
